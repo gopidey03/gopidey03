@@ -1,7 +1,7 @@
 
 ![logo](https://github.com/gopidey03/gopidey03/blob/main/GOPINATH%20DEY.png)
 <h1 align="center">Hi 👋, I'm Gopinath Dey</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gopidey03&label=Profile%20views&color=0e75b6&style=flat" alt="gopidey03" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://gopidey03.github.io/Gopis_website/](https://gopidey03.github.io/Gopis_website/)
 
-- 💬 Ask me about **Tailwind CSS**
+- 🚀 B.Tech ECE | Tech Explorer
 
 - 📫 How to reach me **gopinathdey2003@gmail.com**
 
