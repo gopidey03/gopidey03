@@ -1,5 +1,5 @@
 
-![logo](https://github.com/gopidey03/gopidey03/blob/main/GOPINATH%20DEY.png)
+![Coder Photo](https://github.com/gopidey03/gopidey03/blob/main/coderphoto.jpg)
 <h1 align="center">Hi 👋, I'm Gopinath Dey</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
@@ -9,9 +9,16 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **HTML,CSS & Javascript**
+- 🎓 B.Tech in ECE from Asansol Engineering College  
+- 🛠️ Skilled in Python, C, Java, and JavaScript  
+- 👨‍💻 Passionate about Embedded Systems, IoT, and Web Development  
+- 🤝 Open to internships and collaborations in tech and innovation
 
-- 🚀 B.Tech ECE | Tech Explorer
+- ### 🚀 Tech Stack
+- Languages: **Python**, **C**, **Java**, **JavaScript**  
+- Frontend: HTML, CSS  
+- Tools: Git, GitHub, VS Code
+
 
 - 📫 How to reach me **gopinathdey2003@gmail.com**
 
