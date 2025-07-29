@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **HTML,CSS & Javascript**
 
-- 👨‍💻 All of my projects are available at [https://gopidey03.github.io/Gopis_website/](https://gopidey03.github.io/Gopis_website/)
-
 - 🚀 B.Tech ECE | Tech Explorer
 
 - 📫 How to reach me **gopinathdey2003@gmail.com**
